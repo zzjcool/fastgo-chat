@@ -24,6 +24,8 @@
 
 演示地址：https://fastgo.run/
 
+注册码：https://fastgo.run/#/register?code=70536034-c8f0-43d4-8ab0-66b5d443c3e7
+
 运行：
 
 ```bash
